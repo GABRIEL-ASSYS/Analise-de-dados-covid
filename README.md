@@ -65,4 +65,43 @@ O dataset utilizado neste projeto é o **“Corona Virus Report”**, disponibil
 ---
 ⌨️ com ❤️ por [Gabriel Assys](https://github.com/GABRIEL-ASSYS) 😊
 
+---
+
 ## Gráficos
+
+### Casos Ativos
+![Casos Ativos](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/casos-ativos.jpg)
+
+### Correlação
+![Correlação](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/correlacao.jpg)
+
+### Evolução Global
+![Evolução Global](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/evolucao-global.jpg)
+
+### KPI Geral
+![KPI Geral](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/kpi-geral.jpg)
+
+### Mapa de Casos
+![Mapa de Casos](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/mapa-casos.jpg)
+
+### Novos Casos
+![Novos Casos](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/novos-casos.jpg)
+
+### Tabela de Risco
+![Tabela de Risco](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/tabela-risco.jpg)
+
+### Top 10 Países
+![Top 10 Países](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/sheets/top-10.jpg)
+
+## Dashboards
+
+### Risco por País
+![Risco por País](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/dashboards/risco-pais.jpg)
+
+### Tendência de Ativos
+![Tendência Ativos](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/dashboards/tendencia-ativos.jpg)
+
+### Visão Geral
+![Visão Geral](https://raw.githubusercontent.com/GABRIEL-ASSYS/Analise-de-dados-covid/master/prints/dashboards/visao-geral.jpg)
+
+---
