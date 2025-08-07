@@ -2,19 +2,19 @@
 Esta é um projeto simples de análise de dados utilizando um Dataset público do Kaggle (COVID-19 Dataset) para fazer várias demonstrações dos dados sobre a pandemia de Covid-19, criei este projeto para explorar a ferramenta tableau e aplicar meus conhecimento em Pandas para limpeza de dados.
 
 ## Planilhas (Sheets)
-* Evolução Global: Mostra gráficos em linha comparando as confirmações de casos, mortes e recuperações da doença;
-* Mapa de Casos: Mostra um mapa com círculos na cor vermelha em cima dos países, o tamanho do círculo representa a quantidade de casos em cada país e em alguns casos Estados;
-* Top 10 Países: Mostra um gráfico em barras dos 10 países com mais casos no ano de 2020, contando um filtro onde pode ser escolhido o número de top N opcional;
-* Correlação: Mostra um gráfico de círculos dos países e quando é passado o mouse encima mostra as informações em cada país;
-* Casos Ativos Over Time: Mostra um gráfico de área dos números de casos pela data;
-* KPI Geral: Mostra um texto com as informações gerais do mundo no ano de 2020;
-* Tabela de Risco: Mostram textos de cada país com as informações gerais no ano de 2020;
-* Novos Casos: Mostra um gráfico em linha com o surgimento de novos casos com o passar do tempo;
+* **Evolução Global**: Mostra gráficos em linha comparando as confirmações de casos, mortes e recuperações da doença;
+* **Mapa de Casos**: Mostra um mapa com círculos na cor vermelha em cima dos países, o tamanho do círculo representa a quantidade de casos em cada país e em alguns casos Estados;
+* **Top 10 Países**: Mostra um gráfico em barras dos 10 países com mais casos no ano de 2020, contando um filtro onde pode ser escolhido o número de top N opcional;
+* **Correlação**: Mostra um gráfico de círculos dos países e quando é passado o mouse encima mostra as informações em cada país;
+* **Casos Ativos Over Time**: Mostra um gráfico de área dos números de casos pela data;
+* **KPI Geral**: Mostra um texto com as informações gerais do mundo no ano de 2020;
+* **Tabela de Risco**: Mostram textos de cada país com as informações gerais no ano de 2020;
+* **Novos Casos**: Mostra um gráfico em linha com o surgimento de novos casos com o passar do tempo;
 
 ## Paineis (Dashboards)
-* Visão Geral: Agrupa as Planilhas de Evolução Global, Mapa de Casos, Top 10 Países e KPI Geral, contendo um filtro de Data que se aplica em todas as planilhas;
-* Risco por País: Agrupa as Planilhas de Correlação e Tabela de Risco, contento um filtro de Top N onde pode ser escolhido se a pessoa quer os top 10, top 20, etc;
-* Tendência Ativos: Agrupa as Planilhas de Casos Ativos Over Time e Novos Casos, contendo um filtro de Data que se aplica em todas as planilhas;
+* **Visão Geral**: Agrupa as Planilhas de Evolução Global, Mapa de Casos, Top 10 Países e KPI Geral, contendo um filtro de Data que se aplica em todas as planilhas;
+* **Risco por País**: Agrupa as Planilhas de Correlação e Tabela de Risco, contento um filtro de Top N onde pode ser escolhido se a pessoa quer os top 10, top 20, etc;
+* **Tendência Ativos**: Agrupa as Planilhas de Casos Ativos Over Time e Novos Casos, contendo um filtro de Data que se aplica em todas as planilhas;
 
 ## 🚀 Começando
 
